@@ -6,4 +6,5 @@
 - 💬 develope ...
 - 👻 kubernetes & docker ...
 
-VX is here: https://jweny.top/about/
+
+Contact Me: https://jweny.top/about/
