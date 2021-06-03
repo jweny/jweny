@@ -1,10 +1,7 @@
 ### Welcome Here 👋
 
-- 🔭 this is jweny
-- 🌱 https://jweny.top ...
-- 😄 web sec ...
-- 💬 develope ...
-- 👻 kubernetes & docker ...
+- 🔭 this is [jweny](https://jweny.top)
+- 🌱  web security reseacher & developer
+- 👻  kubernetes & docker security
 
-
-Contact Me: https://jweny.top/about/
+<img align="center" src="https://github-readme-stats-mrdulin.vercel.app/api?username=jweny&show_icons=true&hide_border=true&hide=prs&theme=radical">
