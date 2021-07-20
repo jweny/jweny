@@ -1,6 +1,6 @@
 ### Welcome Here 👋
 
-- 🔭  this is [jweny](https://jweny.top)
+- 🔭  this is [jweny](https://www.jweny.top)
 - 👻  web security reseacher & developer
 - ✨  Wechat:jweny0
 
