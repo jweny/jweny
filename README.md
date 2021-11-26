@@ -2,7 +2,9 @@
 
 - 🔭  this is jweny
 - 👻  web security reseacher & developer
-- 🤩  攻击手法自动化、漏洞利用武器化、安全想法工具化
+- 🤩  攻击手法自动化
+- 😋  漏洞利用武器化
+- 🤠  安全想法工具化
 
 ### Social Media
 
